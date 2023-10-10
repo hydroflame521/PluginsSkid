@@ -37,8 +37,8 @@ subprojects {
     aliucord {
         author("mantikafasi", 287555395151593473)
 
-        updateUrl.set("https://raw.githubusercontent.com/mantikafasi/AliucordPlugins/builds/updater.json")
-        buildUrl.set("https://raw.githubusercontent.com/mantikafasi/AliucordPlugins/builds/%s.zip")
+        updateUrl.set("https://raw.githubusercontent.com/hydroflame521/PluginsSkid/builds/updater.json")
+        buildUrl.set("https://raw.githubusercontent.com/hydroflame521/PluginsSkid/builds/%s.zip")
     }
 
     android {
